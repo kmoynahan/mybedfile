@@ -1,0 +1,1 @@
+cmd = fCD.fasta fasta ./
